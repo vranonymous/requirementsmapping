@@ -5,12 +5,14 @@
 <br>
 <p>
 <b>Search Strings for Requirement Elicitation</b>
-C1: "VR" OR "Virtual Reality"
+<br>
+C1: "VR" OR "Virtual Reality" 
+<br>
 C2: “Requirement Elicitation” OR “Software Requirement*” OR “Requirement Engineering” OR “Requirement Management” OR “Requirement process” OR “Requirement Evaluation” OR “Functional Requirement” OR “Non-Functional Requirement”
 <br>
 <br>
-<b>Search String for Requirement Specification and Validation</b>
-C1: "VR" OR "Virtual Reality"
+<b>Search String for Requirement Specification and Validation</b><br>
+C1: "VR" OR "Virtual Reality"<br>
 C3: “Requirement Analysis” OR “Requirement Specification” OR “Functional Requirement” OR
 “Non-Functional Requirement”
 </p>
