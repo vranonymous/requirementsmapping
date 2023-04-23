@@ -19,10 +19,10 @@ C3: “Requirement Analysis” OR “Requirement Specification” OR “Function
 
 <p> This repository contains artifacts of our Systematic Mapping Study in the following file names and format: <br>
   <ul> 
-    <li>ssurl.txt: This file contains the Search String URLs of initial dump </li>
-    <li>initialdump : This folder contains initial dump from all the search databases. IEEE, ACM, Springer, Science Direct. Inside this folder, we sepearted the dumps of Requirement Elicitation and (Requirement Specification & Validation) seperately </li>
-    <li> exindump : This folder contains dump of papers that are reviewed after exculsion and inclusion criteria. We sepearted the dumps of Requirement Elicitation and (Requirement Specification & Validation) seperately </li>
-    <li> snowballdump: This folder contains dump of papers after forward and reverse snowballing. We sepearted the dumps of Requirement Elicitation and (Requirement Specification & Validation) seperately  </li>
-    <li> finaldump: This folder contains all the finalized papers included as part of our study. We seperated the papers of Requirement Elicitation and (Requirement Specification & Validation) seperately </li>
+    <li> <i>ssurl.txt</i>: This file contains the Search String URLs of initial dump </li>
+    <li><i>initialdump</i>: This folder contains initial dump from all the search databases. IEEE, ACM, Springer, Science Direct. Inside this folder, we sepearted the dumps of Requirement Elicitation and (Requirement Specification & Validation) seperately </li>
+    <li> <i>exindump</i>: This folder contains dump of papers that are reviewed after exculsion and inclusion criteria. We sepearted the dumps of Requirement Elicitation and (Requirement Specification & Validation) seperately </li>
+    <li> <i>snowballdump</i>: This folder contains dump of papers after forward and reverse snowballing. We sepearted the dumps of Requirement Elicitation and (Requirement Specification & Validation) seperately  </li>
+    <li> <i>finaldump</i>: This folder contains all the finalized papers included as part of our study. We seperated the papers of Requirement Elicitation and (Requirement Specification & Validation) seperately </li>
     </ul>
 </p>
