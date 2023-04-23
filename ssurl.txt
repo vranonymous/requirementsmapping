@@ -1,0 +1,79 @@
+NOTE: Following are the search results observed until 3rd Feb 2023.
+
+Original Search String for RQ1 i.e. Requirement Elicitation
+===========================================================
+C1: "VR" OR "Virtual Reality*"
+C2:"Requirement Elicitation" OR "Software Requirement*" OR "Requirement Engineering" OR "Requirement Management" OR "Requirement process" OR "Requirement Evaluation" OR "Functional Requirement" OR "Non-Functional Requirement"
+
+IEEE Search Query: (1377 Papers)
+--------------------------------
+("All Metadata":"VR" OR "All Metadata":"Virtual Reality*") AND ("All Metadata":“Requirement Elicitation” OR "All Metadata":“Software Requirement*” OR "All Metadata":“Requirement Engineering” OR "All Metadata":“Requirement Management” OR "All Metadata":“Requirement process” OR "All Metadata":“Requirement Evaluation” OR "All Metadata":“Functional Requirement” OR "All Metadata":“Non-Functional Requirement”)
+url:https://ieeexplore.ieee.org/search/searchresult.jsp?action=search&matchBoolean=true&queryText=(%22All%20Metadata%22:%22VR%22%20OR%20%22All%20Metadata%22:%22Virtual%20Reality*%22)%20AND%20(%22All%20Metadata%22:%E2%80%9CRequirement%20Elicitation%E2%80%9D%20OR%20%22All%20Metadata%22:%E2%80%9CSoftware%20Requirement*%E2%80%9D%20OR%20%22All%20Metadata%22:%E2%80%9CRequirement%20Engineering%E2%80%9D%20OR%20%22All%20Metadata%22:%E2%80%9CRequirement%20Management%E2%80%9D%20OR%20%22All%20Metadata%22:%E2%80%9CRequirement%20process%E2%80%9D%20OR%20%22All%20Metadata%22:%E2%80%9CRequirement%20Evaluation%E2%80%9D%20OR%20%22All%20Metadata%22:%E2%80%9CFunctional%20Requirement%E2%80%9D%20OR%20%22All%20Metadata%22:%E2%80%9CNon-Functional%20Requirement%E2%80%9D)&highlight=true&returnFacets=ALL&returnType=SEARCH&matchPubs=true&refinements=ContentType:Conferences
+
+ACM Search Query: (80 Papers)
+-----------------------------
+[[Full Text: "virtual reality*"] OR [Full Text: "vr"]] AND [[Full Text: "requirement elicitation"] OR [Full Text: "software requirement*"] OR [Full Text: "requirement engineering"] OR [Full Text: "requirement management"] OR [Full Text: "requirement process"] OR [Full Text: "requirement evaluation"] OR [Full Text: "functional requirement"] OR [Full Text: "non-functional requirement"]]
+url:https://dl.acm.org/action/doSearch?fillQuickSearch=false&target=advanced&ConceptID=118222&expand=dl&AllField=Fulltext%3A%28%22Virtual+Reality*%22+OR+%22VR%22%29+AND+Fulltext%3A%28%22Requirement+Elicitation%22+OR+%22Software+Requirement*%22+OR+%22Requirement+Engineering%22+OR+%22Requirement+Management%22+OR+%22Requirement+process%22+OR+%22Requirement+Evaluation%22+OR+%22Functional+Requirement%22+OR+%22Non-Functional+Requirement%22%29
+
+Springer Search Query: (111 Papers)
+------------------------------------
+'("VR" OR "Virtual Reality*") AND ("Requirement Elicitation" OR "Software Requirement*" OR "Requirement Engineering" OR "Requirement Management" OR "Requirement process" OR "Requirement Evaluation" OR "Functional Requirement" OR "Non-Functional Requirement") 
+url:https://link.springer.com/search?date-facet-mode=between&facet-sub-discipline=%22Software+Engineering%22&showAll=true&facet-discipline=%22Computer+Science%22&query=%28%22VR%22+OR+%22Virtual+Reality*%22%29+AND+%28%22Requirement+Elicitation%22+OR+%22Software+Requirement*%22+OR+%22Requirement+Engineering%22+OR+%22Requirement+Management%22+OR+%22Requirement+process%22+OR+%22Requirement+Evaluation%22+OR+%22Functional+Requirement%22+OR+%22Non-Functional+Requirement%22%29&facet-content-type=%22ConferencePaper%22
+Additional Filters: 
+Content Type: Conference Papers
+Discipline: Computer Science
+Subdiscipline: Software Engineering
+Language: English
+
+Science Direct Search Query: (203 Papers)
+-----------------------------------------
+("Virtual Reality" OR "VR") AND ("Requirement Elicitation" OR "Requirement Engineering" OR "Requirement Management" OR "Requirement process" OR "Requirement Evaluation" OR "Functional Requirement" OR "Non-Functional Requirement")
+url: https://www.sciencedirect.com/search?qs=%28%22Virtual%20Reality%22%20OR%20%22VR%22%29%20AND%20%28%22Requirement%20Elicitation%22%20OR%20%22Requirement%20Engineering%22%20OR%20%22Requirement%20Management%22%20OR%20%22Requirement%20process%22%20OR%20%22Requirement%20Evaluation%22%20OR%20%22Functional%20Requirement%22%20OR%20%22Non-Functional%20Requirement%22%29&lastSelectedFacet=years&subjectAreas=1700&articleTypes=FLA&years=2023%2C2022%2C2021%2C2020%2C2019%2C2018%2C2017%2C2016%2C2015%2C2014%2C2013%2C2012%2C2011
+Additional Filters: 
+Year > 2011 as most of the papers pre 2011 are unrelated.
+Article Type: Research Article
+Subject Area: Computer Science
+
+
+
+Original Search String for RQ2 and RQ3 i.e. Requirement Specification and Requirement Analysis
+=================================================================================================
+C1: "VR" OR "Virtual Reality*"
+C2: "Requirement Analysis" OR "Requirement Specification" OR "Functional Requirement" OR "Non-Functional Requirement"
+
+
+IEEE Search Query: (414 Papers)
+--------------------------------
+("Full Text Only":"VR" OR "Full Text Only":"Virtual Reality*") AND ("Full Text Only":"Requirement Analysis" OR "Full Text Only":"Requirement Specification" OR "Full Text Only":"Functional Requirement" OR "Full Text Only":"Non-Functional Requirement")
+url: https://ieeexplore.ieee.org/search/searchresult.jsp?action=search&newsearch=true&matchBoolean=true&queryText=(%22Full%20Text%20Only%22:%22VR%22%20OR%20%22Full%20Text%20Only%22:%22Virtual%20Reality*%22)%20AND%20(%22Full%20Text%20Only%22:%22Requirement%20Analysis%22%20OR%20%22Full%20Text%20Only%22:%22Requirement%20Specification%22%20OR%20%22Full%20Text%20Only%22:%22Functional%20Requirement%22%20OR%20%22Full%20Text%20Only%22:%22Non-Functional%20Requirement%22)
+
+ACM Search Query: (42 Papers)
+-----------------------------
+[[Full Text: "virtual reality*"] OR [Full Text: "vr"]] 
+AND [[Full Text: "full text only"] OR [Full Text: :"vr"] OR [Full Text: "full text only"] OR [Full Text: :] OR [Full Text: "virtual reality*"]] 
+AND [[Full Text: "full text only"] OR [Full Text: :] OR [Full Text: "requirement analysis"] OR [Full Text: "full text only"] OR [Full Text: :] 
+OR [Full Text: "requirement specification"] OR [Full Text: "full text only"] OR [Full Text: :] OR [Full Text: "functional requirement"] 
+OR [Full Text: "full text only"] OR [Full Text: :] OR [Full Text: "non-functional requirement"]] 
+AND [E-Publication Date: (01/01/2018 TO 02/28/2023)] as most of the papers before 2018 are unrelated to VR
+url: https://dl.acm.org/action/doSearch?fillQuickSearch=false&target=advanced&ConceptID=118222&ContentItemType=research-article&expand=dl&AfterYear=2018&BeforeMonth=2&BeforeYear=2023&AllField=Fulltext%3A%28%22Virtual+Reality*%22+OR+%22VR%22%29+AND+Fulltext%3A%28%28%22Full+Text+Only%22%3A%22VR%22+OR+%22Full+Text+Only%22%3A%22Virtual+Reality*%22%29+AND+%28%22Full+Text+Only%22%3A%22Requirement+Analysis%22+OR+%22Full+Text+Only%22%3A%22Requirement+Specification%22+OR+%22Full+Text+Only%22%3A%22Functional+Requirement%22+OR+%22Full+Text+Only%22%3A%22Non-Functional+Requirement%22%29%29
+Additional Filters: Proceedings, Research Articles
+
+
+Springer Search Query: (144 Papers)
+------------------------------------
+ '("VR" OR "Virtual Reality*") AND ("Requirement Analysis" OR "Requirement Specification" OR "Functional Requirement" OR "Non-Functional Requirement")'
+ url: https://link.springer.com/search?date-facet-mode=between&facet-sub-discipline=%22Software+Engineering%22&showAll=true&facet-discipline=%22Computer+Science%22&query=%28%22VR%22+OR+%22Virtual+Reality*%22%29+AND+%28%22Requirement+Analysis%22+OR+%22Requirement+Specification%22+OR+%22Functional+Requirement%22+OR+%22Non-Functional+Requirement%22%29&facet-content-type=%22ConferencePaper%22
+ Additional Filters: 
+Content Type: Conference Papers, Research Articles
+Discipline: Computer Science
+Subdiscipline: Software Engineering
+Language: English
+
+
+Science Direct Search Query:  (332 Papers)
+------------------------------------------
+("Virtual Reality" OR "VR") AND ("Requirement Analysis" OR "Requirement Specification" OR "Functional Requirement" OR "Non-Functional Requirement")
+url: https://www.sciencedirect.com/search?qs=%28%22Virtual%20Reality%22%20OR%20%22VR%22%29%20AND%20%28%22Requirement%20Analysis%22%20OR%20%22Requirement%20Specification%22%20OR%20%22Functional%20Requirement%22%20OR%20%22Non-Functional%20Requirement%22%29&articleTypes=FLA&lastSelectedFacet=subjectAreas&subjectAreas=1700
+Article Type: Research Articles
+Subject Area: Computer Science
+
