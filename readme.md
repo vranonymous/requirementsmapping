@@ -16,3 +16,10 @@ C1: "VR" OR "Virtual Reality"<br>
 C3: “Requirement Analysis” OR “Requirement Specification” OR “Functional Requirement” OR
 “Non-Functional Requirement”
 </p>
+
+<p> This repository contains artifacts of our Systematic Mapping Study in the following file names and format: <br>
+  <ul> 
+    <li>ssurl.txt: This file contains the Search String URLs of initial dump </li>
+    </ul>
+    
+    </p>
